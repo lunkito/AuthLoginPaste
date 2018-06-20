@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "experimentalDecorators": true,
+    "sourceMap": false,
+    "module": "commonjs",
+    "jsx": "react",
+    "typeRoots": [
+      "node_modules/@types"
+    ]
+  },
+  "exclude": [
+    "dist",
+    "build",
+    "node_modules"
+  ]
+}
